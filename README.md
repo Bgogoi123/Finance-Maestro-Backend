@@ -1,2 +1,2 @@
-# Finance-Maestro 
+# Finance Maestro
 Finance Maestro is a personal Finance Management Application, built to assist users in tracking their income and expenses while encouraging financial discipline through a minimal, intuitive interface. The application allows users to manually input transactions, categorize expenses, and visualize data using simple graphs. By focusing on core functionalities such as expense tracking, category filtering, and persistent storage, the project targets users who are new to budgeting tools or find existing systems overly complex.
